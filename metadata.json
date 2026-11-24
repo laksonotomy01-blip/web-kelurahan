@@ -1,0 +1,8 @@
+{
+  "name": "Portal Resmi Kelurahan Mekarwangi",
+  "description": "Website profil resmi, informasi layanan publik, persyaratan administrasi, unduhan surat pengantar, berita kegiatan, pengumuman, galeri, dan layanan kontak warga Kelurahan Mekarwangi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
